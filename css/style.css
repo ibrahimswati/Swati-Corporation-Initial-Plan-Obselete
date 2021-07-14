@@ -89,13 +89,13 @@ float: left;
 }
 
 table, th, td { /* Styling for table in Contact page  */
-  margin-left: 350px;
+  margin-left: 550px;
   border: 1px solid black;
   border-collapse: collapse;
 }
 th, td { /* Styling for table heading and paragraph in Contact page  */
   padding: 5px;
-  text-align: left;    
+  text-align: center;    
 }
 
 
